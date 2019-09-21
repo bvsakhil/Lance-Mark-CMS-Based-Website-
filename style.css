@@ -1,0 +1,27 @@
+ @font-face {
+  font-family: nextfontbold;
+  src: url(assets/fonts/ave_next_ssv/AvenirNextLTPro-Bold.otf);
+}
+ @font-face {
+  font-family: nextfontreg;
+  src: url(assets/fonts/ave_next_ssv/AvenirNextLTPro-Regular.otf);
+
+}
+
+
+.nav-link{
+    font-family:nextfontreg;
+    font-weight:bold;
+}
+
+.btn-sm{
+     font-family:nextfontreg;
+    font-weight:bold;
+
+}
+
+
+
+.navbar .navbar-expand-md{
+	
+}
